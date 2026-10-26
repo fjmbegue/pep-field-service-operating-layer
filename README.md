@@ -173,19 +173,23 @@ PEP is an exploration of that operating model.
 
 ---
 
-# Current Status
+## Current Status
 
-PEP is currently an interactive prototype demonstrating the operating model and conversational orchestration layer.
+PEP is a functional Applied AI prototype demonstrating an end to end Field Service operating experience across technical support, expert escalation, service orchestration, parts readiness, expense control and administrative follow through.
 
-A production deployment would require authenticated integrations with enterprise systems such as CRM, FSM, inventory, scheduling, communications, traffic data, document management, digital signature and expense platforms.
+The current demo uses fictional MedTech equipment, customers and operational data. Production deployment would require integration with enterprise systems such as CRM/FSM, inventory, scheduling, knowledge, expenses and communication platforms, together with the corresponding security, governance and compliance controls.
 
-The current MedTech demonstration uses fictional equipment, customers and technical scenarios. It is intended to demonstrate AI architecture and operational workflows and is not manufacturer technical guidance or a medical device.
+PEP is not manufacturer guidance and should not be used to operate, service or repair real medical equipment.
 
 ---
 
-# Live Demo
+## Interactive Demo
 
-**Public interactive demo link coming soon.**
+A live English and Spanish demo of PEP is available on request.
+
+If you work in Field Service, Service Operations, MedTech or Applied AI and would like to try it, contact me on LinkedIn for access.
+
+[Contact me on LinkedIn](https://www.linkedin.com/in/fernando-begue/)
 
 ---
 
